@@ -1,4 +1,4 @@
 import { render } from 'react-dom';
-import { Wrapper } from './Wrapper';
+import { App } from './App';
 
-render(<Wrapper />, document.getElementById('root'));
+render(<App />, document.getElementById('root'));
